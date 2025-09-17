@@ -1,0 +1,3 @@
+﻿class ConcreteProductB : Product
+{
+}

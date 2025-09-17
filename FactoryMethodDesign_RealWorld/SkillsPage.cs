@@ -1,0 +1,3 @@
+﻿class SkillsPage : Page
+{
+}

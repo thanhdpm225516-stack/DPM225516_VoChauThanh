@@ -1,0 +1,3 @@
+﻿class SummaryPage : Page
+{
+}

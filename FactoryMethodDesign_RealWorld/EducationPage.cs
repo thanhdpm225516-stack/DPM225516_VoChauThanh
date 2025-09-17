@@ -1,0 +1,3 @@
+﻿class EducationPage : Page
+{
+}
